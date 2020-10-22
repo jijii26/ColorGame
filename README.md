@@ -1,2 +1,2 @@
 # ColorGame
-It's a guessing game in Javascript 
+It's a color guessing game in Javascript 
